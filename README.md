@@ -1,7 +1,5 @@
 # Image-segmentation-using-rg-chromaticity-and-Guassian-Filters
 
-# NOTE: 3 of the travel days were used for this assignment.
-
 # Installations
 
 For libraries and their corresponding versions used in this code, please pip install requirements.txt using the following code:
